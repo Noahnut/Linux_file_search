@@ -28,7 +28,7 @@ int main()
              cout << "Thx you use it" << endl;
              return 0;
           }
-          text.search_in_Server("/home/noah",user_input);
+          text.search_in_Server("/home/",user_input);
           cout << endl;
           cout << "*************************************" << endl;
           cout << "**^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^**" << endl;
